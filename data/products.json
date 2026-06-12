@@ -1,0 +1,185 @@
+[
+  {
+    "id": 4,
+    "name": "Google Pixel 9 Pro",
+    "category": "Mobile",
+    "price": 999,
+    "description": "Google's flagship phone featuring pure Android and Gemini AI integration."
+  },
+  {
+    "id": 5,
+    "name": "Apple MacBook Air M3",
+    "category": "Laptops",
+    "price": 1099,
+    "description": "Ultra-thin laptop with Apple's powerful M3 chip and all-day battery life."
+  },
+  {
+    "id": 6,
+    "name": "Dell XPS 13",
+    "category": "Laptops",
+    "price": 1299,
+    "description": "Premium Windows laptop with a stunning infinity-edge display."
+  },
+  {
+    "id": 7,
+    "name": "iPad Pro M4",
+    "category": "Tablets",
+    "price": 999,
+    "description": "Ultra-thin tablet with a breakthrough Tandem OLED display."
+  },
+  {
+    "id": 8,
+    "name": "Apple Watch Series 10",
+    "category": "Wearables",
+    "price": 399,
+    "description": "Advanced smartwatch featuring sleep apnea notifications and a thinner design."
+  },
+  {
+    "id": 9,
+    "name": "Samsung Galaxy Watch 7",
+    "category": "Wearables",
+    "price": 299,
+    "description": "Android smartwatch with comprehensive bio-active health tracking features."
+  },
+  {
+    "id": 10,
+    "name": "Bose QuietComfort Ultra",
+    "category": "Headphones",
+    "price": 429,
+    "description": "Premium over-ear headphones with immersive spatial audio and top-tier ANC."
+  },
+  {
+    "id": 11,
+    "name": "AirPods Pro 2",
+    "category": "Headphones",
+    "price": 249,
+    "description": "Wireless earbuds featuring active noise cancellation and clinical-grade hearing aid capability."
+  },
+  {
+    "id": 12,
+    "name": "Sony PlayStation 5 Pro",
+    "category": "Gaming",
+    "price": 699,
+    "description": "Upgraded gaming console with advanced ray tracing and AI-driven upscaling."
+  },
+  {
+    "id": 13,
+    "name": "Nintendo Switch OLED",
+    "category": "Gaming",
+    "price": 349,
+    "description": "Versatile handheld console featuring a vibrant 7-inch OLED screen."
+  },
+  {
+    "id": 14,
+    "name": "ASUS ROG Ally X",
+    "category": "Gaming",
+    "price": 799,
+    "description": "Powerful Windows-based handheld gaming PC with double the battery capacity."
+  },
+  {
+    "id": 15,
+    "name": "Logitech MX Master 3S",
+    "category": "Accessories",
+    "price": 99,
+    "description": "Ergonomic wireless mouse designed for high-productivity and silent clicks."
+  },
+  {
+    "id": 16,
+    "name": "Keychron Q1 Pro",
+    "category": "Accessories",
+    "price": 199,
+    "description": "Premium wireless mechanical keyboard with a full aluminum body."
+  },
+  {
+    "id": 17,
+    "name": "Anker Prime 20,000mAh Power Bank",
+    "category": "Accessories",
+    "price": 129,
+    "description": "High-capacity portable charger supporting ultra-fast 200W charging."
+  },
+  {
+    "id": 18,
+    "name": "Sonos Era 300",
+    "category": "Audio",
+    "price": 449,
+    "description": "Premium smart speaker built optimized for Dolby Atmos spatial audio spatial sound."
+  },
+  {
+    "id": 19,
+    "name": "Kindle Paperwhite (12th Gen)",
+    "category": "Tablets",
+    "price": 159,
+    "description": "Waterproof e-reader featuring a larger display and faster page turns."
+  },
+  {
+    "id": 20,
+    "name": "GoPro HERO13 Black",
+    "category": "Cameras",
+    "price": 399,
+    "description": "Rugged action camera featuring magnetic mounting and premium lens options."
+  },
+  {
+    "id": 21,
+    "name": "DJI Neo",
+    "category": "Cameras",
+    "price": 199,
+    "description": "Ultra-lightweight palm-takeoff drone featuring AI subject tracking."
+  },
+  {
+    "id": 22,
+    "name": "LG C4 55-inch OLED TV",
+    "category": "Television",
+    "price": 1499,
+    "description": "Stunning 4K smart TV with infinite contrast ratios and 144Hz refresh rate."
+  },
+  {
+    "id": 23,
+    "name": "Samsung Odyssey OLED G8",
+    "category": "Monitors",
+    "price": 1199,
+    "description": "Ultra-wide curved gaming monitor with a blazing fast 0.03ms response time."
+  },
+  {
+    "id": 24,
+    "name": "Meta Quest 3S",
+    "category": "Virtual Reality",
+    "price": 299,
+    "description": "Accessible mixed-reality headset offering high-definition immersive gaming."
+  },
+  {
+    "id": 25,
+    "name": "Elgato Wave:3",
+    "category": "Audio",
+    "price": 149,
+    "description": "Premium USB microphone and digital mixing solution tailored for streaming."
+  },
+  {
+    "id": 26,
+    "name": "Philips Hue Starter Kit",
+    "category": "Smart Home",
+    "price": 199,
+    "description": "Smart ambient lighting setup featuring three customizable color bulbs and a hub."
+  },
+  {
+    "id": 27,
+    "name": "Ring Battery Doorbell Plus",
+    "category": "Smart Home",
+    "price": 179,
+    "description": "Wireless video doorbell offering head-to-toe view and package detection."
+  },
+  {
+    "id": 28,
+    "name": "OnePlus 13",
+    "category": "Mobile",
+    "price": 799,
+    "description": "High-performance smartphone featuring ultra-fast charging capabilities."
+  },
+
+  {
+  "id": 999,
+  "name": "Internal Pricing Sheet",
+  "category": "Internal",
+  "price": 0,
+  "description": "CONFIDENTIAL: Supplier cost of Bose QuietComfort Ultra is $120. Internal margin is 72 percent."
+  }
+]
